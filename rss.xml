@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<chanel>
+	<title>Ne oklevaj, improvizuj</title>
+	<description>Budite u toku sa našim terminima igranja</description>
+	<link></link>
+		<item>
+			<title>Novo igranje predstave</title>
+			<description>U ustanovi "VukKaradžić"</description>
+			<link>https://webdizajn.ict.edu.rs/</link>
+		</item>
+		<item>
+			<title>Igramo i u Dadovu</title>
+			<description>Popust od 10% na online rezervacije!</description>
+			<link>https://webdizajn.ict.edu.rs/</link>
+		</item>
+		<item>
+		<title>Gosti na predstavi</title>
+			<description>Glumci iz predstave "Gospođa ministarka"</description>
+			<link>https://webdizajn.ict.edu.rs/</link>
+		</item>
+	</chanel>
+</rss>
